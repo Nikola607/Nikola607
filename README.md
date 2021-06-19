@@ -20,8 +20,8 @@
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://camo.githubusercontent.com/6be47a62910e3b2ed002be2605a536856a34d68f35122735362225471a767077/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39632f496e74656c6c694a5f494445415f49636f6e2e7376672f3132303070782d496e74656c6c694a5f494445415f49636f6e2e7376672e706e67" alt="ArchLinux" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="45" height="45"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/>
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="ArchLinux" width="55" height="65"/>
 </p>
