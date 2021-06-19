@@ -1,4 +1,4 @@
-### Hi there.
+### Hi there.<img src="https://i.imgur.com/YS70sDq.gif" width="29px">
 
 ### I'm Nikola, currently a first year student at SoftUni and aspiring software developer.
 
