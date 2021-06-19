@@ -1,4 +1,4 @@
-### Hi there.
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <br />
 <img align="right" src="https://i.imgur.com/YS70sDq.gif" width="430px">
 
