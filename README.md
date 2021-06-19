@@ -23,7 +23,7 @@
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/>
-      <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg alt ="linux width="110" height="75"/>
+      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg alt ="linux width="110" height="75"/>
 </p>
 
 
