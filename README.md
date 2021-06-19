@@ -1,6 +1,6 @@
 ### Hi there.
 <br />
-<img align="right" src="https://i.imgur.com/YS70sDq.gif" width="500px">
+<img align="right" src="https://i.imgur.com/YS70sDq.gif" width="430px">
 
 ### I'm Nikola, currently a first year student at SoftUni and aspiring software developer.
 
