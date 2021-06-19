@@ -20,10 +20,10 @@
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/>
-      <img src="https://discord.com/channels/@me/502540422027935744/855826370218950676"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png alt="ArchLinux" width="35" height="75"/>
+/>
 </p>
 
 
