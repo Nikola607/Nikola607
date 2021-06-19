@@ -1,6 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <br />
-<img align="right" src="https://i.imgur.com/YS70sDq.gif" width="430px">
+<img align="right" src="https://i.imgur.com/hov3v33.gif" width="430px">
 
 ### I'm Nikola, currently a first year student at SoftUni and aspiring software developer.
 
