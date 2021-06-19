@@ -22,8 +22,8 @@
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
-      <img src=https://w7.pngwing.com/pngs/439/685/png-transparent-linux-unix-operating-systems-command-line-interface-computer-software-linux-text-logo-bird.png/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/>
+      <img src="https://spng.subpng.com/20180330/hhw/kisspng-linux-unix-operating-systems-command-line-interfac-linux-5abe15b50a7845.9382991715224068370429.jpg/>
 </p>
 
 
