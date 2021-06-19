@@ -26,7 +26,7 @@
       <img src="https://camo.githubusercontent.com/6be47a62910e3b2ed002be2605a536856a34d68f35122735362225471a767077/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39632f496e74656c6c694a5f494445415f49636f6e2e7376672f3132303070782d496e74656c6c694a5f494445415f49636f6e2e7376672e706e67" alt="ArchLinux" border: 50px width="45" height="45"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" border: 50px width="100" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="ArchLinux" border: 50px width="45" height="55"/>
-      <img src="https://camo.githubusercontent.com/42699cbda8b8e439a856aae1b1193f345e0cba2517c324b753c498fb32362f18/68747470733a2f2f692e696d6775722e636f6d2f74555a4552524b2e706e67" alt="ArchLinux" border: 50px width="45" height="55"/>
+      <img src="https://camo.githubusercontent.com/42699cbda8b8e439a856aae1b1193f345e0cba2517c324b753c498fb32362f18/68747470733a2f2f692e696d6775722e636f6d2f74555a4552524b2e706e67" alt="ArchLinux" border: 50px width="55" height="55"/>
 </p>
 
 
