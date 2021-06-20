@@ -5,9 +5,9 @@
 ### I'm Nikola, currently a first year student at SoftUni and aspiring software developer.
 
 - I’m currently learning everything 
+- I use daily .java, .sql
 - I’m looking to collaborate with other people
 - 2021 Goals: Contribute more to Open Source projects
-- I use daily .java, .sql
 
 
 ### Connect with me:
