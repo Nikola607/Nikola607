@@ -7,6 +7,7 @@
 - I’m currently learning everything 
 - I’m looking to collaborate with other people
 - 2021 Goals: Contribute more to Open Source projects
+- I use daily .java, .sql
 
 
 ### Connect with me:
