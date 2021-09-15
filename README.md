@@ -14,7 +14,7 @@
 
 [<img align="left" alt="NikolaVuchev | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" />][facebook]
 [<img align="left" alt="NikolaVuchev | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
-[<img align="left" alt="NikolaVuchev | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />]
+[<img align="left" alt="NikolaVuchev | LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />][linkedIn]
 
 
 
@@ -36,3 +36,4 @@
 
 [instagram]: https://www.instagram.com/nikola_.420/?hl=bg
 [facebook]: https://www.facebook.com/vyzdi/
+[linkedIn]: https://www.linkedin.com/in/nikola-vuchev-1a9599220/
