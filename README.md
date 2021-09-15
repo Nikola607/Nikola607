@@ -28,6 +28,7 @@
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" border: 50px width="100" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="ArchLinux" border: 50px width="45" height="55"/>
       <img src="https://camo.githubusercontent.com/42699cbda8b8e439a856aae1b1193f345e0cba2517c324b753c498fb32362f18/68747470733a2f2f692e696d6775722e636f6d2f74555a4552524b2e706e67" alt="ArchLinux" border: 50px width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="ArchLinux" border: 50px width="55" height="55"/>
 </p>
 
 
