@@ -7,7 +7,7 @@
 - I’m currently learning everything 
 - I use daily .java, .sql
 - I’m looking to collaborate with other people
-- 2021 Goals: Contribute more to Open Source projects
+- 2023 Goals: Gain more professional experience as a Java developer
 
 
 ### Connect with me:
