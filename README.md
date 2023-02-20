@@ -5,7 +5,7 @@
 ### I'm Nikola, currently a 2nd year student at SoftUni and aspiring software developer.
 
 - I’m currently learning everything 
-- I use daily .java, .sql
+- I use daily java
 - I’m looking to collaborate with other people
 - 2023 Goals: Gain more professional experience as a Java developer
 
