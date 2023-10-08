@@ -2,7 +2,7 @@
 <br />
 <img align="right" src="https://i.imgur.com/aty9qnh.gif" width="430px">
 
-### I'm Nikola, currently a 2nd year student at SoftUni and aspiring software developer.
+### Hi I'm Nikola, currently a junior Java developer at flatexDegiro.
 
 - I’m currently learning everything 
 - I use daily java
