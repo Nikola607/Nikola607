@@ -2,7 +2,7 @@
 <br />
 <img align="right" src="https://i.imgur.com/aty9qnh.gif" width="430px">
 
-### Hi I'm Nikola, currently a junior Java developer at flatexDegiro.
+### Hi I'm Nikola, currently a Java developer at flatexDegiro.
 
 - I’m currently learning everything 
 - I use daily java
